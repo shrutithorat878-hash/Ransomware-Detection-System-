@@ -1,4 +1,4 @@
-# 🛡 RansomShield — Ransomware Detection Tool
+# 🛡 RansomShield — Ransomware Detection System
 **Final Year Project | Educational Purpose Only**
 
 ---
