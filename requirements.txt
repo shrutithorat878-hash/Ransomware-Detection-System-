@@ -1,0 +1,39 @@
+# ============================================================
+#  Ransomware Detection Tool — Requirements
+#  Final Year Project | Educational Purpose
+# ============================================================
+
+# --- Core Monitoring ---
+psutil==5.9.8
+watchdog==4.0.0
+
+# --- Machine Learning (Anomaly Detection) ---
+scikit-learn==1.6.1
+numpy==2.2.4
+pandas==2.2.3
+joblib==1.4.2
+
+# --- Web Dashboard (Backend) ---
+flask==3.0.3
+flask-socketio==5.3.6
+flask-cors==4.0.0
+
+# --- Real-Time Communication ---
+python-socketio==5.11.2
+
+# --- Database ---
+# SQLite is built-in to Python — no install needed
+
+# --- Notifications ---
+plyer==2.1.0
+
+# --- Utilities ---
+colorama==0.4.6        # Colored console output
+python-dotenv==1.0.1   # Environment variables
+schedule==1.2.1        # Task scheduling
+
+# --- Logging / Reporting ---
+rich==13.7.1           # Beautiful terminal output
+
+# --- Optional: Model Persistence ---
+# joblib already listed above handles this
